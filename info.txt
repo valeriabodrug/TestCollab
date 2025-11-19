@@ -1,0 +1,1 @@
+"Acesta este fisierul info.txt creat pe ramura feature-update." 
