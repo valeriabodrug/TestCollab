@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../xampp/htdocs/PHP/cozastore-master/css"
+		},
+		{
+			"path": "../../../xampp/htdocs/PHP/cozastore-master/fonts"
+		},
+		{
+			"path": "../../../xampp/htdocs/PHP/cozastore-master/images"
+		},
+		{
+			"path": "../../../xampp/htdocs/PHP/cozastore-master/js"
+		},
+		{
+			"path": "../../../xampp/htdocs/PHP/cozastore-master/vendor"
+		}
+	]
+}
